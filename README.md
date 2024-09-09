@@ -2,7 +2,7 @@
 ## Introduction
 Build with Next.js, TailwindCSS and Typescript, this is a responsive, robust and well structured landing page for a Travel UI/UX website.
 ## Deployement
-https://ubiquitous-selkie-a7b6d9.netlify.app/
+(https://hilink-app.netlify.app/)
 ## Features
 - Visually striking hero section that captures attention and sets the tone for the website.
 - Showcase various camps in a dedicated section, allowing users to explore different options.
